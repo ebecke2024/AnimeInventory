@@ -8,7 +8,7 @@ selling items and what everyone's favorite thing was.
 ## Project Tasks
 - **Task 1: Make sure you have all the proper programs**
   - Make sure you have Visio or another type of diagram organizing software. 
-  - Install XAMPP Apache since this will be where you make the database
+  - Install XAMPP Apache with MySQL since this will be where you make the database
   - Have Juypter Notebook installed along with numpy and Pandas. 
 - **Task 2 Make the blue print**
   - Create the class diagrams and relationship lines 
@@ -32,7 +32,7 @@ selling items and what everyone's favorite thing was.
   - Using Numpy to create arrays
 
 ## Languages Used 
-  - **XAMPP Apache**: For making the database
+  - **XAMPP Apache with MySQL**: For making the database
   - **Juypter Notebook**: For Analyzing the data
 
 ## Notes
